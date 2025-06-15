@@ -28,4 +28,4 @@ export default function MovieGrid({ onSelect, movies }: MovieGridProps) {
       ))}
     </ul>
   );
-}
+}  
